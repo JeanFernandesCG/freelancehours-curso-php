@@ -1,3 +1,3 @@
 <div>
-    componente livewire project.proposals
+    componente livewire project proposals
 </div>
